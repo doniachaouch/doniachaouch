@@ -77,7 +77,7 @@ Feel free to reach out for any collaboration or inquiries:
 
 - 📧 **Email**: [dchaouch01@gmail.com](mailto:dchaouch01@gmail.com)
 - 🔗 **LinkedIn**: [Donia Chaouch](https://www.linkedin.com/in/donia-chaouch-77ab4b174/)
-- 💻 **GitHub**: [Doniach28](https://github.com/Doniach28)
+- 💻 **GitHub**: [doniachaouch](https://github.com/doniachaouch)
 
 ---
 
