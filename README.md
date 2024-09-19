@@ -37,11 +37,11 @@
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Java, C#, .NET, PHP, JavaScript, HTML/CSS, TypeScript
-- **Frameworks**: Symfony6, Angular, Express.js, Bootstrap, .NET MAUI, Laravel9, Node.js
-- **Mobile Development**: Android Studio, Flutter
-- **Methodologies**: Scrum, Agile
-- **Environment**: Java EE, Odoo, MEAN Stack, Cloud Computing, IoT Security
+- **🌐Programming Languages**: Java, C#, .NET, PHP, JavaScript, HTML/CSS, TypeScript
+- **🛠Frameworks**: Symfony6, Angular, Express.js, Bootstrap, .NET MAUI, Laravel9, Node.js
+- **📱Mobile Development**: Android Studio, Flutter
+- **📋Methodologies**: Scrum, Agile
+- **🌍Environment**: Java EE, Odoo, MEAN Stack, Cloud Computing, IoT Security
 
 ---
 
