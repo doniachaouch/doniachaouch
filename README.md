@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DoniaChaouch-blue)](https://www.linkedin.com/in/donia-chaouch-77ab4b174/)
 [![GitHub](https://img.shields.io/badge/GitHub-doniachaouch-lightgrey)](https://github.com/doniachaouch)
-[![Email](https://img.shields.io/badge/Email-dchaouch01%40gmail.com-red)](mailto:dchaouch01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dchaouch01%40gmail.com-red)](mailto:chaouch.donia@polytechmonastir.com)
 
 ---
 
