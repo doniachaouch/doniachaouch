@@ -1,84 +1,86 @@
 # 👩‍💻 Donia Chaouch
 
-**Software Engineer Student**  | Full Stack Developer
+**Software Engineer Student** | Full Stack Developer  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DoniaChaouch-blue)](https://www.linkedin.com/in/donia-chaouch-77ab4b174/)
-[![GitHub](https://img.shields.io/badge/GitHub-doniachaouch-lightgrey)](https://github.com/doniachaouch)
-[![Email](https://img.shields.io/badge/Email-dchaouch01%40gmail.com-red)](mailto:dchaouch01@gmail.com)
-
----
-
-## 🎓 Education
-
-- 📚 **Computer Engineering Cycle**, specialized in Software Engineering  
-  Private Polytechnic Higher School of Monastir (2022 - Present)
-- 📡 **Professional Master's degree in Telecommunications and Radio Frequency**  
-  Faculty of Sciences Monastir (2018 - 2020)
-- 🔬 **Basic Degree in Physics**  
-  Faculty of Sciences Monastir (2014 - 2018)
+📍 Monastir, Tunisia  
+📧 [chaouch.donia@polytechmonastir.com](mailto:chaouch.donia@polytechmonastir.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/donia-chaouch-77ab4b174/) | [GitHub](https://github.com/doniachaouch)  
 
 ---
 
-## 💼 Professional Experience
+## 🎓 **Education**
 
-### 👩‍💻 Web Developer | Action Digitale, France (July 2024 – August 2024)
-- 🔧 Developed and integrated advanced customized modules in **Odoo** using **Python** and **API Pappers**.
-
-### 📱 Multiplatform Developer | Rise Up, Sousse (August 2023 – September 2023)
-- 🛠️ Created a cross-platform native application using **.NET MAUI**, **C#**, and **ASP.NET**.
-
-### 🌐 Web Developer | Finansya Lab, Monastir (July 2023 – August 2023)
-- 💻 Designed and developed a financial blog with complete **Backend** and **Frontend** solutions using **Laravel 9**.
-
-### 📊 Assistant Manager | Société de Fabrication de Peinture Prestige, Ksar Helal (Nov 2020 – Aug 2022)
-- 🤝 Focused on direct communication with clients, ensuring high-quality customer service.
+- **📚 Computer Engineering Cycle** – Software Engineering  
+  *Private Polytechnic Higher School of Monastir* (2022 – Present)  
+- **📡 Professional Master's Degree in Telecommunications and Radio Frequency**  
+  *Faculty of Sciences, Monastir* (2018 – 2020)  
+- **🔬 Bachelor's Degree in Physics**  
+  *Faculty of Sciences, Monastir* (2014 – 2018)  
 
 ---
 
-## 🛠️ Skills
+## 💼 **Professional Experience**
 
-- **🌐Programming Languages**: Java, C#, .NET, PHP, JavaScript, HTML/CSS, TypeScript
-- **🛠Frameworks**: Symfony6, Angular, Express.js, Bootstrap, .NET MAUI, Laravel9, Node.js
-- **📱Mobile Development**: Android Studio, Flutter
-- **📋Methodologies**: Scrum, Agile
-- **🌍Environment**: Java EE, Odoo, MEAN Stack, Cloud Computing, IoT Security
+### 👩‍💻 Web Developer | **Action Digitale**, France  
+**📅 July 2024 – August 2024**  
+- 🔧 Designed and integrated advanced custom modules in **Odoo** using **Python** and **API Pappers**.
 
----
+### 📱 Multiplatform Developer | **Rise Up**, Sousse  
+**📅 August 2023 – September 2023**  
+- 🛠️ Developed a cross-platform native application with **.NET MAUI**, **C#**, and **ASP.NET**.
 
-## 🏆 Certifications
+### 🌐 Web Developer | **Finansya Lab**, Monastir  
+**📅 July 2023 – August 2023**  
+- 💻 Built a financial blog with complete **Backend** and **Frontend** solutions using **Laravel 9**.
 
-- 📜 **JavaScript Certificate** - Certiport
-- 📝 **Java Certificate** - Certiport
-- 🗄️ **Databases Certificate** - Certiport
-- 🎮 **Unity Game Dev Certificate** - Horizon
+### 🏢 Assistant Manager | **Société de Fabrication de Peinture Prestige**, Ksar Helal  
+**📅 November 2020 – August 2022**  
+- 🤝 Delivered excellent client service with a focus on direct communication to meet their needs efficiently.
 
----
-
-## 💻 Academic Projects
-
-- 🍕 **Advanced Online Food Ordering Platform** with integrated payment system  
-  *Technologies Used*: MEAN Stack
-- 🏥 **Cloud Platform for Telemedicine** with IoT and patient data security  
-  *Technologies Used*: PHP
+### 🔧 Internship | **STEG**, Moknine  
+**📅 June 2015 – July 2015**  
+- 🌟 Introduction to professional environments.
 
 ---
 
-## 🌐 Languages
+## 🏆 **Certifications**
 
-- 🗣️ **Arabic**: Native
-- 🗨️ **French**: Bilingual
-- 🗣️ **English**: Fluent
+- 📜 **JavaScript Certificate** - Certiport  
+- 🖥️ **Java Certificate** - Certiport  
+- 🗄️ **Databases Certificate** - Certiport  
+- 🎮 **Unity Game Dev Certificate** - Horizon  
+
+---
+
+## 🛠️ **Skills**
+
+- **🌐 Programming Languages**: Java, C#, .NET, PHP, JavaScript, HTML/CSS, TypeScript  
+- **🛠 Frameworks**: Symfony, Angular, Bootstrap, .NET MAUI, Laravel 9, Node.js  
+- **📱 Mobile Development**: Android Studio, Flutter  
+- **📋 Methodologies**: Scrum, Agile  
+- **🌍 Environment**: Java EE  
+- **🏗️ Architectures**: MVC, MVVM  
+- **🗄️ Databases**: MySQL, MongoDB  
+- **🔗 Web Services**: REST, JSON  
+- **💻 Application Servers**: XAMPP, Apache Tomcat  
+- **🛠 Tools**: Postman, GitHub, Git, Jira, Trello, GitHub Copilot  
 
 ---
 
-## 📫 Contact Me
+## 🧑‍💻 **Academic Projects**
 
-Feel free to reach out for any collaboration or inquiries:
+- **🍕 Online Food Ordering Platform**: Designed and implemented a food ordering system with integrated payment processing.  
+  *Technologies*: MEAN Stack  
 
-- 📧 **Email**: [dchaouch01@gmail.com](mailto:dchaouch01@gmail.com)
-- 🔗 **LinkedIn**: [Donia Chaouch](https://www.linkedin.com/in/donia-chaouch-77ab4b174/)
-- 💻 **GitHub**: [doniachaouch](https://github.com/doniachaouch)
+- **🏥 Cloud Telemedicine Platform**: Developed a cloud-based platform with IoT integration for remote patient care and data security.  
+  *Technologies*: PHP  
 
 ---
+
+## 🌐 **Languages**
+
+- 🗣️ **Arabic**: Native  
+- 🗨️ **French**: Bilingual  
+- 🗣️ **English**: Fluent  
 
 
