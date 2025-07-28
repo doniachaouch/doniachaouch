@@ -1,6 +1,6 @@
 # 👩‍💻 Donia Chaouch
 
-**Software Engineer ** | Full Stack Developer  
+**Software Engineer**  | Full Stack Developer  
 
 📍 Monastir, Tunisia  
 📧 [chaouch.donia@polytechmonastir.com](mailto:chaouch.donia@polytechmonastir.com)  
