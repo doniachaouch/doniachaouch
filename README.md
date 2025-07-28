@@ -1,6 +1,6 @@
 # 👩‍💻 Donia Chaouch
 
-**Software Engineer Student** | Full Stack Developer  
+**Software Engineer ** | Full Stack Developer  
 
 📍 Monastir, Tunisia  
 📧 [chaouch.donia@polytechmonastir.com](mailto:chaouch.donia@polytechmonastir.com)  
@@ -11,7 +11,7 @@
 ## 🎓 **Education**
 
 - **📚 Computer Engineering Cycle** – Software Engineering  
-  *Private Polytechnic Higher School of Monastir* (2022 – Present)  
+  *Private Polytechnic Higher School of Monastir* (2022 – 2025)  
 - **📡 Professional Master's Degree in Telecommunications and Radio Frequency**  
   *Faculty of Sciences, Monastir* (2018 – 2020)  
 - **🔬 Bachelor's Degree in Physics**  
