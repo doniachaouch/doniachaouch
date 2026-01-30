@@ -110,11 +110,4 @@ J'aime créer des applications **robustes, scalables et esthétiques**, et optim
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doniachaouch&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doniachaouch&layout=compact&theme=radical)
-
----
-
 ✨ Toujours motivée à apprendre, relever des défis et créer des solutions innovantes.
