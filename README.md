@@ -11,7 +11,8 @@
 
 📍 Monastir, Tunisie  
 📧 dchaouch01@gmail.com | 📞 (+216) 53 299 887  
-🔗 [LinkedIn](https://www.linkedin.com/in/donia-chaouch-77ab4b174/) | 💻 [GitHub](https://github.com/doniachaouch)
+🔗 [LinkedIn](https://www.linkedin.com/in/donia-chaouch-77ab4b174/) |
+💻 [GitHub](https://github.com/doniachaouch)
 
 ---
 
