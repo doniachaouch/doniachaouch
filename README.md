@@ -24,54 +24,54 @@ J'aime créer des applications **robustes, scalables et esthétiques**, et optim
 
 ### 🟣 Consultante Odoo Junior – Orvella Consulting
 *Monastir, Tunisie | Octobre 2025 – Aujourd’hui*  
-- 📌 Mise en place et personnalisation de solutions **Odoo**  
-- 📌 Analyse des besoins et rédaction de spécifications simples  
-- 📌 Développement de modules en **Python** (Odoo 17/18/19)  
-- 📌 Paramétrage : **Ventes, Achats, Inventaire**  
-- 📌 Support utilisateur et automatisation des processus  
-- 🛠️ **Tech** : Odoo, Python, XML, PostgreSQL  
+📌 Mise en place et personnalisation de solutions **Odoo**  
+📌 Analyse des besoins et rédaction de spécifications simples  
+📌 Développement de modules en **Python** (Odoo 17/18/19)  
+📌 Paramétrage : **Ventes, Achats, Inventaire**  
+📌 Support utilisateur et automatisation des processus  
+ 🛠️ **Tech** : Odoo, Python, XML, PostgreSQL  
 
 ### 🔵 Ingénieure Logiciel – Maps-IT (Stage de Fin d’Études)
 *Monastir, Tunisie | Février 2025 – Juin 2025*  
-- 📌 Développement fullstack online/offline pour **CaissaTN**  
-- 📌 Backend **Spring Boot** + API REST sécurisées  
-- 📌 Frontend **Angular 19** avec **RxJS / RxDB**  
-- 📌 Architecture tolérante aux pannes + resynchronisation automatique  
-- 📌 DevOps : pipelines **CI/CD**, déploiement **Docker**  
-- 🛠️ **Stack** : Angular 19, RxJS, RxDB, Spring Boot, PostgreSQL, Docker  
+ 📌 Développement fullstack online/offline pour **CaissaTN**  
+ 📌 Backend **Spring Boot** + API REST sécurisées  
+ 📌 Frontend **Angular 19** avec **RxJS / RxDB**  
+ 📌 Architecture tolérante aux pannes + resynchronisation automatique  
+ 📌 DevOps : pipelines **CI/CD**, déploiement **Docker**  
+ 🛠️ **Stack** : Angular 19, RxJS, RxDB, Spring Boot, PostgreSQL, Docker  
 
 ### 🟢 Développeuse Web – Action Digitale (Stage)
 *France (Remote) | Juin 2024 – Août 2024*  
-- 📌 Personnalisation du module **Contacts** Odoo  
-- 📌 Intégration API **Pappers**  
-- 📌 Déploiement sur **Odoo.sh**  
-- 🛠️ **Stack** : Odoo, Python, API REST, Odoo.sh  
+ 📌 Personnalisation du module **Contacts** Odoo  
+ 📌 Intégration API **Pappers**  
+ 📌 Déploiement sur **Odoo.sh**  
+ 🛠️ **Stack** : Odoo, Python, API REST, Odoo.sh  
 
 ### 🟠 Développeuse Full Stack – Rise-Up (Stage)
 *Sousse, Tunisie | Août 2023 – Septembre 2023*  
-- 📌 Frontend Angular, Backend Spring Boot  
-- 📌 Intégration frontend/backend + base de données PostgreSQL  
+ 📌 Frontend Angular, Backend Spring Boot  
+ 📌 Intégration frontend/backend + base de données PostgreSQL  
 
 ### 🟡 Développeuse Full Stack – Finansya Lab (Stage)
 *Monastir, Tunisie | Juillet 2023 – Août 2023*  
-- 📌 Blog financier fullstack  
-- 📌 API REST + CRUD + Spring Security  
-- 🛠️ **Tech** : Angular, Spring Boot, MySQL  
+ 📌 Blog financier fullstack  
+ 📌 API REST + CRUD + Spring Security  
+ 🛠️ **Tech** : Angular, Spring Boot, MySQL  
 
 ---
 
 ## 🧩 Projets Académiques
 
 ### 🍔 Plateforme Web de Commande de Nourriture
-- 🔒 Authentification sécurisée  
-- 💳 Paiement **PayPal**  
-- 🗺️ Intégration **Google Maps**  
-- 🛠️ **Stack** : MEAN Stack  
+ 🔒 Authentification sécurisée  
+ 💳 Paiement **PayPal**  
+ 🗺️ Intégration **Google Maps**  
+ 🛠️ **Stack** : MEAN Stack  
 
 ### 🏥 Plateforme Cloud pour Télémédecine
-- 🔐 Gestion sécurisée des données patients  
-- 📸 Intégration IoT et imagerie médicale  
-- 🛠️ **Stack** : PHP, IoT, sécurité des données  
+ 🔐 Gestion sécurisée des données patients  
+ 📸 Intégration IoT et imagerie médicale  
+ 🛠️ **Stack** : PHP, IoT, sécurité des données  
 
 ---
 
@@ -84,11 +84,11 @@ J'aime créer des applications **robustes, scalables et esthétiques**, et optim
 
 ## 🏆 Certifications
 
-- ☕ Java, JavaScript, Base de Données – Certiport  
-- 🎮 Unity Game Development – Horizon Ed  
-- 📊 Big Data – IBM  
-- 🤖 Fondamentaux IA – IBM  
-- 🌐 Introduction à l’IoT – Cisco Networking  
+ ☕ Java, JavaScript, Base de Données – Certiport  
+ 🎮 Unity Game Development – Horizon Ed  
+ 📊 Big Data – IBM  
+ 🤖 Fondamentaux IA – IBM  
+ 🌐 Introduction à l’IoT – Cisco Networking  
 
 ---
 
