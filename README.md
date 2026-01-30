@@ -5,8 +5,9 @@
   <img src="https://img.shields.io/badge/Angular-Frontend-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 </p>
 
-# 👩‍💻 Donia Chaouch
-**Ingénieure Full Stack | Consultante Odoo Junior**  
+# **👩‍💻 Donia Chaouch**
+**Ingénieure Full Stack | Consultante Odoo Junior**
+
 
 📍 Monastir, Tunisie  
 📧 dchaouch01@gmail.com | 📞 (+216) 53 299 887  
