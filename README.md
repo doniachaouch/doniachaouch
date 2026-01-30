@@ -24,58 +24,61 @@ J'aime créer des applications **robustes, scalables et esthétiques**, et optim
 
 ### 🟣 Consultante Odoo Junior – Orvella Consulting
 *Monastir, Tunisie | Octobre 2025 – Aujourd’hui*  
-- Mise en place et personnalisation de solutions **Odoo**  
-- Analyse des besoins et rédaction de spécifications simples  
-- Développement de modules en **Python** (Odoo 17/18/19)  
-- Paramétrage : Ventes, Achats, Inventaire  
-- Support utilisateur et automatisation de processus  
-- **Tech** : Odoo, Python, XML, PostgreSQL  
+- 📌 Mise en place et personnalisation de solutions **Odoo**  
+- 📌 Analyse des besoins et rédaction de spécifications simples  
+- 📌 Développement de modules en **Python** (Odoo 17/18/19)  
+- 📌 Paramétrage : **Ventes, Achats, Inventaire**  
+- 📌 Support utilisateur et automatisation des processus  
+- 🛠️ **Tech** : Odoo, Python, XML, PostgreSQL  
 
 ### 🔵 Ingénieure Logiciel – Maps-IT (Stage de Fin d’Études)
 *Monastir, Tunisie | Février 2025 – Juin 2025*  
-- Développement fullstack online/offline pour **CaissaTN**  
-- Backend **Spring Boot** + API REST sécurisées  
-- Frontend **Angular 19** avec **RxJS / RxDB**  
-- Architecture tolérante aux pannes + resynchronisation automatique  
-- CI/CD + Docker  
-- **Tech** : Angular 19, RxJS, RxDB, Spring Boot, PostgreSQL, Docker  
+- 📌 Développement fullstack online/offline pour **CaissaTN**  
+- 📌 Backend **Spring Boot** + API REST sécurisées  
+- 📌 Frontend **Angular 19** avec **RxJS / RxDB**  
+- 📌 Architecture tolérante aux pannes + resynchronisation automatique  
+- 📌 DevOps : pipelines **CI/CD**, déploiement **Docker**  
+- 🛠️ **Stack** : Angular 19, RxJS, RxDB, Spring Boot, PostgreSQL, Docker  
 
 ### 🟢 Développeuse Web – Action Digitale (Stage)
 *France (Remote) | Juin 2024 – Août 2024*  
-- Personnalisation du module Contacts Odoo  
-- Intégration API **Pappers**  
-- Déploiement sur **Odoo.sh**  
-- **Tech** : Odoo, Python, API REST, Odoo.sh  
+- 📌 Personnalisation du module **Contacts** Odoo  
+- 📌 Intégration API **Pappers**  
+- 📌 Déploiement sur **Odoo.sh**  
+- 🛠️ **Stack** : Odoo, Python, API REST, Odoo.sh  
 
 ### 🟠 Développeuse Full Stack – Rise-Up (Stage)
 *Sousse, Tunisie | Août 2023 – Septembre 2023*  
-- Frontend Angular, Backend Spring Boot  
-- Intégration frontend/backend + base de données PostgreSQL  
+- 📌 Frontend Angular, Backend Spring Boot  
+- 📌 Intégration frontend/backend + base de données PostgreSQL  
 
 ### 🟡 Développeuse Full Stack – Finansya Lab (Stage)
 *Monastir, Tunisie | Juillet 2023 – Août 2023*  
-- Blog financier fullstack  
-- API REST + CRUD + Spring Security  
-- **Tech** : Angular, Spring Boot, MySQL  
+- 📌 Blog financier fullstack  
+- 📌 API REST + CRUD + Spring Security  
+- 🛠️ **Tech** : Angular, Spring Boot, MySQL  
 
 ---
 
 ## 🧩 Projets Académiques
 
 ### 🍔 Plateforme Web de Commande de Nourriture
-- Authentification sécurisée, paiement **PayPal**, Google Maps  
-- **Stack** : MEAN Stack (MongoDB, Express.js, Angular, Node.js)  
+- 🔒 Authentification sécurisée  
+- 💳 Paiement **PayPal**  
+- 🗺️ Intégration **Google Maps**  
+- 🛠️ **Stack** : MEAN Stack  
 
-### 🏥 Plateforme Cloud de Télémédecine
-- Gestion sécurisée des données patients, IoT, imagerie médicale  
-- **Stack** : PHP, IoT, sécurité des données  
+### 🏥 Plateforme Cloud pour Télémédecine
+- 🔐 Gestion sécurisée des données patients  
+- 📸 Intégration IoT et imagerie médicale  
+- 🛠️ **Stack** : PHP, IoT, sécurité des données  
 
 ---
 
 ## 🎓 Formation
 
-- **Diplôme d’Ingénierie en Génie Logiciel** – Polytechnique de Monastir (2022 – 2025) ⭐ Très Bien  
-- **Master Professionnel en Télécommunications & Radiofréquence** – FSM (2018 – 2020) ⭐ Bien  
+🎓 **Diplôme d’Ingénierie en Génie Logiciel** – Polytechnique de Monastir (2022 – 2025) ⭐ Très Bien  
+🎓 **Master Professionnel en Télécommunications & Radiofréquence** – FSM (2018 – 2020) ⭐ Bien  
 
 ---
 
@@ -91,12 +94,12 @@ J'aime créer des applications **robustes, scalables et esthétiques**, et optim
 
 ## 🛠️ Compétences Techniques
 
-**Frontend** : JavaScript, TypeScript, HTML/CSS, Angular, Adobe XD  
-**Backend** : Java, C#, Spring Boot, Express.js, Node.js, REST, JSON  
-**Mobile** : Android (native), Flutter, .NET MAUI  
-**ERP / Odoo** : Modules Python/XML, ORM, QWeb, Odoo 17/18  
-**Bases de données** : MySQL, PostgreSQL, MongoDB, Hibernate  
-**Outils** : Linux, Git/GitHub/GitLab, CI/CD, Docker, VMware, Slack, Trello, Figma, Illustrator  
+**💻 Frontend** : JavaScript, TypeScript, HTML/CSS, Angular, Adobe XD  
+**🖥️ Backend** : Java, C#, Spring Boot, Express.js, Node.js, REST, JSON  
+**📱 Mobile** : Android (native), Flutter, .NET MAUI  
+**🛠️ ERP / Odoo** : Modules Python/XML, ORM, QWeb, Odoo 17/18  
+**🗄️ Bases de données** : MySQL, PostgreSQL, MongoDB, Hibernate  
+**⚙️ Outils & Environnements** : Linux, Git/GitHub/GitLab, CI/CD, Docker, VMware, Slack, Trello, Figma, Illustrator  
 
 ---
 
