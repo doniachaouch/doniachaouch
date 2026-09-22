@@ -19,7 +19,9 @@
 ## 💡 À propos de moi
 Ingénieure en Génie Logiciel, mention très bien, spécialisée en développement Full Stack Java/Angular. Expérience
 pratique dans la conception d’applications web, le développement d’API REST avec Spring Boot, l’intégration frontend/backend avec Angular et TypeScript, ainsi que la gestion de bases de données. Habituée à travailler avec RxJS,
-les tests unitaires, Docker et CI/CD, notamment sur des applications offline-first. Également familiarisée avec les environnem
+les tests unitaires, Docker et CI/CD, notamment sur des applications offline-first. Également familiarisée avec les environnements ERP, je suis motivée par le développement de solutions fiables, maintenables et adaptées aux besoins
+métier.
+
 
 ---
 
