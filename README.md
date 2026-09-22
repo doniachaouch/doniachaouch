@@ -17,8 +17,9 @@
 ---
 
 ## 💡 À propos de moi
-Ingénieure passionnée par le **développement web fullstack** et les **ERP**, avec une expertise en **Odoo, Angular et Spring Boot**.  
-J'aime créer des applications **robustes, scalables et esthétiques**, et optimiser les processus métiers pour les entreprises.  
+Ingénieure en Génie Logiciel, mention très bien, spécialisée en développement Full Stack Java/Angular. Expérience
+pratique dans la conception d’applications web, le développement d’API REST avec Spring Boot, l’intégration frontend/backend avec Angular et TypeScript, ainsi que la gestion de bases de données. Habituée à travailler avec RxJS,
+les tests unitaires, Docker et CI/CD, notamment sur des applications offline-first. Également familiarisée avec les environnem
 
 ---
 
