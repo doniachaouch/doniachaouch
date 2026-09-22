@@ -25,7 +25,7 @@ J'aime créer des applications **robustes, scalables et esthétiques**, et optim
 ## 💼 Expérience Professionnelle
 
 ### 🟣 Consultante Odoo Junior – Orvella Consulting
-*Monastir, Tunisie | Octobre 2025 – Aujourd’hui*  
+*Monastir, Tunisie | Septembre 2025 – Juin 2026*  
 📌 Mise en place et personnalisation de solutions **Odoo**  
 📌 Analyse des besoins et rédaction de spécifications simples  
 📌 Développement de modules en **Python** (Odoo 17/18/19)  
