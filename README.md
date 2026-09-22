@@ -80,7 +80,7 @@ J'aime créer des applications **robustes, scalables et esthétiques**, et optim
 ## 🎓 Formation
 
 🎓 **Diplôme d’Ingénierie en Génie Logiciel** – Polytechnique de Monastir (2022 – 2025) ⭐ Très Bien  
-🎓 **Master Professionnel en Télécommunications & Radiofréquence** – FSM (2018 – 2020) ⭐ Bien  
+🎓 **Master Professionnel en Télécommunications & Radiofréquence** – FSM (2018 – 2020) ⭐ Trés Bien  
 
 ---
 
